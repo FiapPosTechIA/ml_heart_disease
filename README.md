@@ -13,7 +13,7 @@ This project contains a machine learning model for heart disease prediction usin
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/FiapPosTechIA/ml_heart_disease.git
 cd ml_heart_disease
 ```
 
